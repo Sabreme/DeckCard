@@ -1,0 +1,7 @@
+C:\Users\Sabreme\source\repos\Coding_Practice\Deck\bin\Debug\Deck.exe.config
+C:\Users\Sabreme\source\repos\Coding_Practice\Deck\bin\Debug\Deck.exe
+C:\Users\Sabreme\source\repos\Coding_Practice\Deck\bin\Debug\Deck.pdb
+C:\Users\Sabreme\source\repos\Coding_Practice\Deck\obj\Debug\Deck.csproj.CoreCompileInputs.cache
+C:\Users\Sabreme\source\repos\Coding_Practice\Deck\obj\Debug\Deck.exe
+C:\Users\Sabreme\source\repos\Coding_Practice\Deck\obj\Debug\Deck.pdb
+C:\Users\Sabreme\source\repos\Coding_Practice\Deck\obj\Debug\Deck.csprojResolveAssemblyReference.cache
